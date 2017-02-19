@@ -1,0 +1,36 @@
+{
+  "name": "dependency-injection.ts",
+  "version": "1.0.0",
+  "description": "dependency-injection.ts is a dependency injection library for Node.js and Javascript environments where TypeScript is supported.",
+  "author": "Armen Harutyunyan <mench.harutyunyan@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "node lib/test"
+  },
+  "keywords": [
+    "dependency injection",
+    "dependency-injection",
+    "di",
+    "typescript",
+    "ts"
+  ],
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/node": "^7.0.5"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.9"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mench/dependency-injection.ts.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mench/dependency-injection.ts/issues"
+  },
+  "homepage": "https://github.com/mench/dependency-injection.ts#readme"
+}
