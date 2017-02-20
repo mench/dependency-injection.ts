@@ -1,6 +1,6 @@
 {
   "name": "dependency-injection.ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dependency-injection.ts is a dependency injection library for Node.js and Javascript environments where TypeScript is supported.",
   "author": "Armen Harutyunyan <mench.harutyunyan@gmail.com>",
   "main": "lib/src/index.js",
