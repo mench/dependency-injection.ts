@@ -14,7 +14,10 @@ $ npm install --save dependency-injection.ts
 
 dependency-injection.ts requires a TypeScript environment with classes and  decorators.
 
-## Getting Started
+### Note.
+To get use of lib please include  **"experimentalDecorators": true**   and **"emitDecoratorMetadata": true** in tsconfig.json file
+
+## Getting Started 
 
 For resolving dependencies of classes you will need to use @inject decorator and  container class to resolve instance  
 
