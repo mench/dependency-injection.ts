@@ -15,11 +15,9 @@
     "typescript",
     "ts"
   ],
-  "devDependencies": {
-    "@types/core-js": "^0.9.35",
-    "@types/node": "^7.0.5"
-  },
   "dependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/node": "^7.0.5",
     "reflect-metadata": "^0.1.9"
   },
   "directories": {
