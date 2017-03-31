@@ -1,1 +1,1 @@
-{"version":3,"file":"singleton.js","sourceRoot":"","sources":["../../src/singleton.ts"],"names":[],"mappings":";AAAA,yCAAoC;AAEpC,mBAA0B,KAAK;IAC3B,mBAAS,CAAC,mBAAmB,CAAC,KAAK,CAAC,CAAC;AACzC,CAAC;AAFD,8BAEC"}
+{"version":3,"file":"singleton.js","sourceRoot":"","sources":["../../src/singleton.ts"],"names":[],"mappings":";;AAAA,yCAAoC;AAEpC,mBAA0B,KAAK;IAC3B,mBAAS,CAAC,mBAAmB,CAAC,KAAK,CAAC,CAAC;AACzC,CAAC;AAFD,8BAEC"}

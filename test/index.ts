@@ -98,3 +98,4 @@ const test = container.getInstanceOf(Test);
 const service = container.getInstanceOf(Service);
 console.info(service);
 console.info("instance= ",instance);
+console.info("test= ",test);

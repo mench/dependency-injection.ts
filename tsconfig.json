@@ -8,6 +8,7 @@
     "declaration" : true,
     "outDir" : "lib",
     "target" : "es5",
+    "lib": ["es2016","dom"],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "moduleResolution": "Node"
